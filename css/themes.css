@@ -1,0 +1,41 @@
+:root {
+  --content-width: 1080px;
+
+  /* 06 桃雪温酥 */
+  --bg: #F8EFEE;
+  --card: #FFFCFB;
+  --float: #F1DFDD;
+  --line: #E2C9C5;
+  --weak: #8C6865;
+  --main: #B26C70;
+  --text: #382529;
+  --accent: #DB9C97;
+
+  --shadow: 0 14px 40px rgba(88, 55, 55, 0.07);
+}
+
+/* 当前启用主题：桃雪温酥 */
+.theme-peach {
+  --bg: #F8EFEE;
+  --card: #FFFCFB;
+  --float: #F1DFDD;
+  --line: #E2C9C5;
+  --weak: #8C6865;
+  --main: #B26C70;
+  --text: #382529;
+  --accent: #DB9C97;
+  --shadow: 0 14px 40px rgba(88, 55, 55, 0.07);
+}
+
+/* 预留主题：夜雪无声 */
+.theme-night {
+  --bg: #0D151D;
+  --card: #16212D;
+  --float: #243544;
+  --line: #3A5164;
+  --weak: #98AABB;
+  --main: #9CC9EC;
+  --text: #EDF4FA;
+  --accent: #E7D7AE;
+  --shadow: 0 14px 45px rgba(0, 0, 0, 0.24);
+}
